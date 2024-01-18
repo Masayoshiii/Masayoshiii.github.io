@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins',sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    background: #080c10;
+    color: #45a29e;
+}
+
+    header {
+      text-align: center;
+      padding: 2em 0;
+    }
+
+    section {
+      padding: 2em;
+    }
+
+    h1, h2, p {
+      margin-bottom: 1em;
+    }
+
+    .about{
+        img{
+            float: top;
+        }
+    }
+
+    .about,.portfolio, .contact {
+      background-color: #1f2833;
+      margin-bottom: 2em;
+      padding: 1em;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+
+    ul li {
+      margin-bottom: 0.5em;
+    }
+
+    .portfolio-item {
+      margin-bottom: 1em;
+    }
+
+    .portfolio-item img {
+      img{
+        float: top;
+      }
+    }
