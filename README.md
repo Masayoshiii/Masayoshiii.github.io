@@ -1,1 +1,0 @@
-# Masayoshiii.github.io
